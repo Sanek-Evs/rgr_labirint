@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1590996696 source:c:\users\knyaz\desktop\labirint\main.cpp
+	<iostream>
+	<vector>
+	<fstream>
+	<iomanip>
+
